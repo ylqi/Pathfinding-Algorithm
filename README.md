@@ -5,17 +5,24 @@ The self-driving vehicle will need to create a path on a 2D-grid that contains a
 
 <img src="Figs/task.png" width="300" height="200" alt="Task description demo"/>
 
-### Phase 1: 
-![Phase 1](Figs/phase1.jpg)
+### Phase 1:
+<img src="Figs/phase1.jpg" width="800" alt="Phase 1"/>
 
 ### Pase 2:
-![Phase 2](Figs/phase2.jpg)
+<img src="Figs/phase2.jpg" width="800" alt="Phase 2"/>
 
 
 ## Algorithm visualization
 
-### Phase 1:
+### Phase 1: (4 obstacles)
 ![Phase 1 vis](Figs/phase1-vis.png)
 
-### Phase 2:
+### Phase 2: (20 randomly obstacles)
 ![Phase 2 vis](Figs/phase2-vis.png)
+
+
+##### Note:
+'-': Predicted path
+'x': Obstacles
+'s': Starting point
+'d': Delivery point
