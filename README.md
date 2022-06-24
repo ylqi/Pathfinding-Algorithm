@@ -1,5 +1,4 @@
 # A pathfinding algorithm for self-driving delivery vehicles
-Amazon's Coding Challenge for Bright Network (Internship Experience - UK).
 
 ## Task description
 The self-driving vehicle will need to create a path on a 2D-grid that contains a starting point (x,y), a delivery point (x,y) and a number of obstacles. Your vehicle can navigate to any of the adjacent squares (even diagonally), as long as the squares are inbound and do not contain an obstacle.
