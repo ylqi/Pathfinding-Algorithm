@@ -11,6 +11,12 @@ The self-driving vehicle will need to create a path on a 2D-grid that contains a
 ### Pase 2:
 <img src="Figs/phase2.jpg" width="850" alt="Phase 2"/>
 
+## Usage
+Please run following commands: 
+```bash
+python pathfinding_algorithm_phase_1.py
+python pathfinding_algorithm_phase_2.py
+```
 
 ## Algorithm visualization
 
@@ -21,7 +27,7 @@ The self-driving vehicle will need to create a path on a 2D-grid that contains a
 ![Phase 2 vis](Figs/phase2-vis.png)
 
 
-##### Note:
+#### Note:
 `'-'`: Predicted path
 `'x'`: Obstacles
 `'s'`: Starting point
